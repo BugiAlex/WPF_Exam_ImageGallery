@@ -1,0 +1,64 @@
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\bin\Debug\WPF_Exam_ImageGallery.exe.config
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\bin\Debug\WPF_Exam_ImageGallery.exe
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\bin\Debug\WPF_Exam_ImageGallery.pdb
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csprojAssemblyReference.cache
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\MainWindow.g.cs
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\App.g.cs
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery_MarkupCompile.cache
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery_MarkupCompile.lref
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\MainWindow.baml
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.g.resources
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.Properties.Resources.resources
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csproj.GenerateResource.cache
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csproj.CoreCompileInputs.cache
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.exe
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.pdb
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\RegistrationWinsow.g.cs
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\RegistrationWinsow.baml
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ExceptionWindow.g.cs
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ExceptionWindow.baml
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ImageGalleryWindow.g.cs
+D:\for_programm\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ImageGalleryWindow.baml
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\bin\Debug\WPF_Exam_ImageGallery.exe.config
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\bin\Debug\WPF_Exam_ImageGallery.exe
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\bin\Debug\WPF_Exam_ImageGallery.pdb
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csprojAssemblyReference.cache
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ExceptionWindow.g.cs
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ImageGalleryWindow.g.cs
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\MainWindow.g.cs
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\RegistrationWinsow.g.cs
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\App.g.cs
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery_MarkupCompile.cache
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery_MarkupCompile.lref
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ExceptionWindow.baml
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ImageGalleryWindow.baml
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\MainWindow.baml
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\RegistrationWinsow.baml
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.g.resources
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.Properties.Resources.resources
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csproj.GenerateResource.cache
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csproj.CoreCompileInputs.cache
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.exe
+D:\WorkFolder\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.pdb
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\bin\Debug\WPF_Exam_ImageGallery.exe.config
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\bin\Debug\WPF_Exam_ImageGallery.exe
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\bin\Debug\WPF_Exam_ImageGallery.pdb
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ExceptionWindow.g.cs
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ImageGalleryWindow.g.cs
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\MainWindow.g.cs
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\RegistrationWinsow.g.cs
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\App.g.cs
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery_MarkupCompile.cache
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery_MarkupCompile.lref
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ExceptionWindow.baml
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\ImageGalleryWindow.baml
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\MainWindow.baml
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\RegistrationWinsow.baml
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.g.resources
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.Properties.Resources.resources
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csproj.GenerateResource.cache
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csproj.CoreCompileInputs.cache
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.exe
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.pdb
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csproj.AssemblyReference.cache
+D:\Step_Academy\Мои учебные проекты\WPF\WPF_Exam_ImageGallery\WPF_Exam_ImageGallery\obj\Debug\WPF_Exam_ImageGallery.csproj.SuggestedBindingRedirects.cache
